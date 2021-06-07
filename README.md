@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am third-year student of Computer Science and Econometrics, who want gain first professional experience as Front End Developer or React Developer.
+  - 🔭 I’m currently working on BSc Thesis, where I want to create platform which support running a email marketing campaigns
+  - 🌱 I’m currently learning Typescript and develop knowledge of React
 
 <!--
 **przemg/przemg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
