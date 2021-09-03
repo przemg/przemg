@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am third-year student of Computer Science and Econometrics, who want gain first professional experience as Front End Developer, React Developer or JavaScript Developer.
+I am fourth-year student of Computer Science and Econometrics, who want gain first professional experience as Front End Developer, React Developer or JavaScript Developer.
   - 🔭 I’m currently working on Engineering Thesis, where I want to create platform which support running a email marketing campaigns
   - 🌱 I’m currently learning Typescript and develop knowledge of React
 
